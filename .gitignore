@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.env
+.gitignore
+.idea
+.idea/.gitignore
+.idea/codeStyles/
+.idea/inspectionProfiles/
+.idea/jamstack-website.iml
+.idea/misc.xml
+.idea/modules.xml
+.next/
+
+node_modules/
+out/
